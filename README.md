@@ -1,8 +1,6 @@
 # Mensajeador
-<p>Mensajeador al estilo WhatsApp entre navegadores utilizando RabbitMQ y Reactjs</p>
-<br>
+Mensajeador al estilo WhatsApp entre navegadores utilizando RabbitMQ y Reactjs
 
-# Readme Reactjs
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
